@@ -42,15 +42,6 @@ c-programming-questions/
 
 ---
 
-## ⚡ How to Run
-Compile any file using:
-
-```bash
-gcc filename.c -o output
-./output
-```
-
----
 
 ## 🌱 Note
 This repository is part of my daily coding practice.  
